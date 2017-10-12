@@ -21,7 +21,7 @@
 ---
 jre:
   version: 1.8.0_+
-  repository_root: "http://cskpcloudxp1467.cloud.kp.org/files/weblogicbuild/jdk/jdk-8u144-linux-x64.tar.gz"
+  repository_root: "http://cskpcloudxp1467.cloud.kp.org/files/weblogicbuild/jdk"
 memory_calculator:
   version: 2.+
   repository_root: ! '{default.repository.root}/memory-calculator/{platform}/{architecture}'
